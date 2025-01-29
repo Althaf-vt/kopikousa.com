@@ -1,0 +1,221 @@
+body{
+    margin: 0;
+    background: black;
+}
+.header{
+    width: 100%;
+    height: 172px;
+    background: black;
+    box-sizing: border-box;
+}
+.header-upperside{
+    width: 100%;
+    height: 130px;
+    box-sizing: border-box;
+}
+.kopiko-title{
+    color: #b7b7b7;
+    margin-left: 600px;
+    margin-top: 45px;
+    letter-spacing: 2px;
+    line-height: 51px;
+    font-family: "Playfair Display", serif;
+    font-size: 47px;
+    font-weight: 400;  
+}
+.text-1{
+    color: #b7b7b7;
+    font-size: 50px;
+    font-family: "Open Sans", sans-serif;
+    font-size: 15px;
+    font-weight: normal;
+    letter-spacing: 3px;
+    margin-top: -27px;
+    margin-left: 530px;
+}
+.line-1{
+    width: 92%;
+    margin-top: -15px;
+    color: #b7b7b7;
+    height: 0.01px;
+    opacity: 15%;
+}
+.header-lowerside{
+    box-sizing: border-box;
+}
+.menu-bar{
+    display: flex;
+    list-style: none;
+    color: #fff;
+    font-family: "Open Sans", sans-serif;
+    font-weight: 100;
+    margin-left: 340px;
+    margin-top: 0px;
+    font-size: 13.5px;
+    padding: 0px;
+}
+.select-button{
+    background: black;
+    color: #fff;
+    border: none;
+}
+
+.image-div-1{
+    width: 100%;
+    height: 1275px;
+}
+.image-1{
+    width: 100%;
+    height: 100%;
+    background: #ebbc30;
+    object-fit: cover;
+}
+.text-2-div{
+    margin-top: -22px;
+    width: 100%;
+    height: 360px;
+    background: black;
+    padding-top: 145px;
+    box-sizing: border-box;
+}
+.text-2{
+    text-align: center;
+    color: #999;
+    font-family: "Roboto", Sans-serif;
+    font-size: 22px;
+    font-weight: 600;
+    line-height: 1.6em;
+    margin-left: 30px;
+    letter-spacing: -1px;
+    box-sizing: border-box;
+}
+.text-3{
+    text-align: center;
+    color: #999;
+    margin-top: 40px;
+    font-family: "Roboto", Sans-serif;
+    font-size: 22px;
+    font-weight: 600;
+    letter-spacing: -1.1px;
+
+}
+
+.image-2{
+    justify-content: center;
+    margin-left: 320px;
+    height: 500px;
+    width: 885px;
+    border: none;
+    border-radius: 0;
+    box-shadow: none;
+}
+.social-div{
+    padding-bottom: 150px;
+
+}
+
+.socialmedia{
+    margin-top: 230px;
+    width: 470px;
+    height: 70px;
+    margin-left: 515px;
+}
+.footer{
+    width: 100%;
+    height: 100px;
+    box-sizing: border-box;
+    font-family: "Open Sans", sans-serif;
+    justify-content: center;
+    padding-top: 25px ;
+    box-sizing: border-box;
+    display: flex;
+}
+.footer-text{
+    display: flex;
+    box-sizing:border-box ;
+}
+.footer-text-1{
+    color: #999;
+    font-size: 13px;
+    margin-left: -19px;
+    display: flex;
+    box-sizing: border-box;
+    padding-right: 3px;
+}
+.footer-text-2{
+    text-decoration: none;
+    color: #fff;
+    font-size: 13px;
+    margin-top: 14px;
+    display: flex;box-sizing: border-box;
+    padding-right: 3px;
+
+
+}
+.footer-text-2:hover{
+    text-decoration: underline;
+}
+.footer-text-3{
+    color: #999;
+    font-size: 13px;
+    margin-top: 14px;
+    display: flex;
+    box-sizing: border-box;
+    padding-right: 3px;
+
+
+}
+
+.footer-text-4{
+    text-decoration: none;
+    color: #fff;
+    font-size: 13px;
+    margin-top: 14px;
+    display: flex;
+    box-sizing: border-box;
+
+}
+.footer-text-4:hover{
+    text-decoration: underline;
+}
+
+.HOME:hover{
+    color: #db4f3d;
+    cursor: pointer;
+}
+
+.COLLECTIONS:hover{
+    color: #db4f3d;
+    cursor: pointer;
+
+}
+.SHOP:hover{
+    color: #db4f3d;
+    cursor: pointer;
+
+}
+.NEWS:hover{
+    color: #db4f3d;
+    cursor: pointer;
+
+}
+.ABOUT:hover{
+    color: #db4f3d;
+    cursor: pointer;
+
+}
+.CONTACT:hover{
+    color: #db4f3d;
+    cursor: pointer;
+
+}
+.select-button:hover{
+    color: #db4f3d;
+    cursor: pointer;
+}
+.kopiko-title:hover{
+    color: #db4f3d;
+    cursor: pointer;
+}
+
+
